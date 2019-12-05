@@ -24,7 +24,7 @@ public class FirstController {
 
         List apartment2 = new ArrayList();
         apartment2.add("kiranmai");
-        apartment2.add("erigadu");
+        apartment2.add("chinniiiiii");
         apartment2.add("suhaas");
 
         List apartment3 = new ArrayList();
