@@ -30,7 +30,7 @@ public class FirstController {
         List apartment3 = new ArrayList();
 
         resultMap.put("11111111",apartment1);
-        resultMap.put("4455",apartment2);
+        resultMap.put("222222222222",apartment2);
         resultMap.put("6678",apartment3);
 
         return new ResponseEntity<>(resultMap.get(key), HttpStatus.OK);
