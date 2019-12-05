@@ -18,8 +18,8 @@ public class FirstController {
         Map resultMap = new HashMap<>();
 
         List apartment1 = new ArrayList();
-        apartment1.add("kkkkkkkkkkkk");
-        apartment1.add("aarvi123");
+        apartment1.add("rrrrrrrrrrrrrrr");
+        apartment1.add("aarvi");
         apartment1.add("suhaas");
 
         List apartment2 = new ArrayList();
