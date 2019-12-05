@@ -19,7 +19,7 @@ public class FirstController {
 
         List apartment1 = new ArrayList();
         apartment1.add("rrrrrrrrrrrrrrr");
-        apartment1.add("aarvi");
+        apartment1.add("yyyyyy");
         apartment1.add("suhaas");
 
         List apartment2 = new ArrayList();
@@ -56,7 +56,7 @@ public class FirstController {
         Map resultMap = new HashMap<>();
 
 
-        resultMap.put(22222222,"chinnu");
+        resultMap.put(12121212,"chinnu");
         resultMap.put(388,"rishi");
         resultMap.put(6678,"kannayya");
 
