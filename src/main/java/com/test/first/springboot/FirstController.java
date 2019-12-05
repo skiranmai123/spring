@@ -25,13 +25,14 @@ public class FirstController {
         List apartment2 = new ArrayList();
         apartment2.add("kiranmai");
         apartment2.add("chittiiiiiiii");
+        apartment2.add("ramaaaaaaaaaaaaa");
         apartment2.add("pinkyyyyyyyyyyyyyy");
 
         List apartment3 = new ArrayList();
 
         resultMap.put("11111111",apartment1);
         resultMap.put("33333333",apartment2);
-        resultMap.put("8888888888888888888",apartment3);
+        resultMap.put("6678",apartment3);
 
         return new ResponseEntity<>(resultMap.get(key), HttpStatus.OK);
     }
@@ -42,7 +43,7 @@ public class FirstController {
         List resultList = new ArrayList();
         resultList.add("chinnu123445555555555555555");
         resultList.add("arvi123");
-        resultList.add("pppppppppppppppp");
+        resultList.add("ssssssssssssssssssssss");
         return new ResponseEntity<>(resultList, HttpStatus.OK);
     }
 
