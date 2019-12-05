@@ -56,7 +56,7 @@ public class FirstController {
         Map resultMap = new HashMap<>();
 
 
-        resultMap.put(7777777,"chinnu");
+        resultMap.put(66666666,"chinnu");
         resultMap.put(11111111,"rishi");
         resultMap.put(9999999,"kannayya");
 
