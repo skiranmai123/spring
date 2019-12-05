@@ -19,7 +19,7 @@ public class FirstController {
 
         List apartment1 = new ArrayList();
         apartment1.add("rrrrrrrrrrrrrrr");
-        apartment1.add("uuuuuuuuu");
+        apartment1.add("aarvi");
         apartment1.add("suhaas");
 
         List apartment2 = new ArrayList();
