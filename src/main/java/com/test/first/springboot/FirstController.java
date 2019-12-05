@@ -58,7 +58,7 @@ public class FirstController {
 
         resultMap.put(12121212,"chinnu");
         resultMap.put(2222222,"rishi");
-        resultMap.put(6678,"kannayya");
+        resultMap.put(11111111,"kannayya");
 
         return new ResponseEntity<>(resultMap.get(rankNo), HttpStatus.OK);
     }
